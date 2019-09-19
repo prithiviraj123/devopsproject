@@ -10,3 +10,4 @@ class addition {
         System.out.println("Sum of 2 nos = "+sum); 
     }
 }
+lkhgdfhj
